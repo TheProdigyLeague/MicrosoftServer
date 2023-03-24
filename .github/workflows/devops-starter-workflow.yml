@@ -1,3 +1,4 @@
+[![Build and Deploy ASP.NET MVC App to Azure Web App](https://github.com/TheProdigyLeague/MicrosoftServer/actions/workflows/devops-starter-workflow.yml/badge.svg?branch=master&event=check_run)](https://github.com/TheProdigyLeague/MicrosoftServer/actions/workflows/devops-starter-workflow.yml)
 name: Build and Deploy ASP.NET MVC App to Azure Web App
 
 on:
